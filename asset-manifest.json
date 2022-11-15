@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b9a5e69.css",
+    "main.js": "/static/js/main.6fd9add5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/project-3.png": "/static/media/project-3.75cb6fa290191736ae0e.png",
+    "static/media/project-9.png": "/static/media/project-9.87006d9afe620d671740.png",
+    "static/media/project-1.png": "/static/media/project-1.c6bef8316ecf048a49cf.png",
+    "static/media/project-5.png": "/static/media/project-5.4bff1493f172769c38ac.png",
+    "static/media/project-2.png": "/static/media/project-2.cf80f2d7d9e10627efd3.png",
+    "static/media/sai_kiran.pdf": "/static/media/sai_kiran.3a7a2334e041746c2d3e.pdf",
+    "static/media/project-6.png": "/static/media/project-6.c7b859fc1f0428b254af.png",
+    "static/media/project-10.png": "/static/media/project-10.d6a7952e036a3a7eb66e.png",
+    "static/media/bluemercury.png": "/static/media/bluemercury.1ac438a09236e20578c0.png",
+    "static/media/project-11.png": "/static/media/project-11.0161dbe4f970cdd25e59.png",
+    "static/media/project-4.png": "/static/media/project-4.3019ab81db90f80932e2.png",
+    "static/media/profile.jpg": "/static/media/profile.614689f35f85bee774bf.jpg",
+    "index.html": "/index.html",
+    "main.0b9a5e69.css.map": "/static/css/main.0b9a5e69.css.map",
+    "main.6fd9add5.js.map": "/static/js/main.6fd9add5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b9a5e69.css",
+    "static/js/main.6fd9add5.js"
+  ]
+}
