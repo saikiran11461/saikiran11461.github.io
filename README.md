@@ -1,32 +1,52 @@
-# React + TypeScript + Vite
+# Sai Kiran Ommi — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> **Live Website:** [https://saikiran11461.github.io/](https://saikiran11461.github.io/)
 
-Currently, two official plugins are available:
+A modern, high-performance portfolio engineered for **Sai Kiran Ommi** (Full Stack Developer & Founder of RapidRoot). Inspired by the signature **Sawad Framer design aesthetic** — featuring dark obsidian surfaces, dual-contrast typography, physics-based spring animations, and deep-dive showcases into the **RapidRoot Ecosystem**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ⚡ Tech Stack & Architecture
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Core:** React 19, TypeScript, Vite
+- **Styling:** Tailwind CSS (v4) with custom tokens matching `#151312` obsidian palette
+- **Motion Design:** Framer Motion (spring transitions, entrance reveals, modal physics)
+- **Icons:** Lucide React & Custom Brand SVGs
+- **Deployment:** GitHub Pages (`gh-pages` automated pipeline + GitHub Actions)
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## 🚀 RapidRoot Ecosystem Live Links
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+- **RapidRoot Core Platform:** [https://rapidroot.in/](https://rapidroot.in/)
+- **WhatsApp Cloud API Automation:** [https://app.rapidroot.in/](https://app.rapidroot.in/)
+- **Hostels & Accommodation ERP:** [https://hostels.rapidroot.in/login](https://hostels.rapidroot.in/login)
+- **Real Estate Platform & CRM:** [https://realestate.rapidroot.in/](https://realestate.rapidroot.in/)
+
+---
+
+## 💻 Local Development
+
+```bash
+# Clone the repository
+git clone https://github.com/saikiran11461/saikiran11461.github.io.git
+cd saikiran11461.github.io
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## 📦 Deployment to GitHub Pages
+
+To build and deploy production updates:
+
+```bash
+npm run deploy
+```
+
+---
+
+© 2026 Sai Kiran Ommi. All rights reserved.
